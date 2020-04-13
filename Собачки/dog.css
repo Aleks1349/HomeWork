@@ -1,0 +1,18 @@
+.container-fluid{
+    width:70%;
+    margin-top:8%;
+}
+.back{
+    background:#FFC107; 
+    text-decoration: none;
+    color:#2FE300;
+    text-align: center;
+    margin-left:48%;
+    padding:5px;
+    font-size: 30px;
+}
+
+.back:hover {
+    text-decoration: none;
+    color:#7A7DB0;
+}

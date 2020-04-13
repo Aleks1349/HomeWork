@@ -1,0 +1,42 @@
+.card {
+    width: 100%;
+}
+
+.lol {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.cray-right {
+    margin-right: 5%;
+}
+
+.cray-left {
+    margin-left: 5%;
+}
+
+nav {
+    width: 105%;
+}
+li {
+    margin-right: 120px;
+}
+
+a{
+    color:black;
+}
+a:hover {
+    text-decoration: none;
+    color:white;
+}
+a:active{
+    color:#D6BDE9;
+}
+.li{
+    margin-left:25px;
+}
+.navbar-light{
+    background-color: #F8F9C5;
+    margin-bottom: 100px;
+    padding:8px;
+}

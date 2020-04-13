@@ -1,0 +1,39 @@
+body{
+    color:black;
+}
+nav {
+    width: 105%;
+}
+
+li {
+    margin-right: 120px;
+    list-style-type: none;
+}
+.navbar-header{
+    margin:15px;
+    margin-right:50px;
+    color:#9F9F9F;
+    font-size: 20px;
+}
+
+.navbar-light {
+    background-color: #F8F9C5;
+    margin-bottom: 100px;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#7A7DB0;
+}
+.lol{
+    display:none;
+}
+ul{
+    text-decoration: none;
+}
